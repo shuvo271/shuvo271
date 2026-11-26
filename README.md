@@ -1,4 +1,6 @@
 # 💫 About Me:
+👋 Hi, I'm Shuvo — Engineer, Tech Enthusiast & Developer passionate about Software Engineering, AI, Automation & Innovation!
+
 👨‍💻 Interested in Software Development & Engineering.<br>🚀 Exploring AI, Automation, and Modern Technologies.<br>🛠️ Building creative projects and practical solutions.<br>🌱 Always learning and improving my technical skills.<br>🎯 Focused on turning ideas into reality.
 
 
